@@ -1,0 +1,2 @@
+-Study and analysis of the e-reputation of Mc'Donalds France through web scrapping of multiple websites(Twitter, TripAdvisor...)
+-Identifying the major problems and negative points and figuring the suitable marketing strategies for these issues
